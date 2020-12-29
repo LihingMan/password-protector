@@ -1,2 +1,2 @@
 # password-protector
-Store passwords offline on your device 
+Store passwords offline on your device (in progress)
